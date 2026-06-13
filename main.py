@@ -1,3 +1,4 @@
+import streamlit as st
 pokemon_data = {
     "INTJ": {
         "pokemon": "뮤츠",
