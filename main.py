@@ -4,105 +4,105 @@ pokemon_data = {
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "emoji": "🧠",
         "desc": "전략적이고 독립적인 당신은 강력한 지능과 목표 의식을 가진 뮤츠와 닮았어요."
-    },
+    }
 
     "INTP": {
         "pokemon": "후딘",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
         "emoji": "🔮",
         "desc": "호기심이 많고 분석적인 당신은 초능력으로 모든 것을 탐구하는 후딘 스타일!"
-    },
+    }
 
     "ENTJ": {
         "pokemon": "리자몽",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
         "emoji": "🔥",
         "desc": "카리스마 넘치는 리더형! 목표를 향해 돌진하는 리자몽과 찰떡궁합입니다."
-    },
+    }
 
     "ENTP": {
         "pokemon": "팬텀",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
         "emoji": "😏",
         "desc": "재치 있고 창의적인 당신은 장난기 많은 팬텀과 잘 어울려요."
-    },
+    }
 
     "INFJ": {
         "pokemon": "루기아",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
         "emoji": "🌊",
         "desc": "깊은 통찰력과 따뜻한 마음을 가진 당신은 신비로운 루기아와 닮았어요."
-    },
+    }
 
     "INFP": {
         "pokemon": "이브이",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
         "emoji": "✨",
         "desc": "상상력이 풍부하고 순수한 당신은 무한한 가능성의 이브이!"
-    },
+    }
 
     "ENFJ": {
         "pokemon": "픽시",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
         "emoji": "💖",
         "desc": "사람들을 행복하게 만드는 당신은 사랑스러운 픽시와 비슷해요."
-    },
+    }
 
     "ENFP": {
         "pokemon": "피카츄",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
         "emoji": "⚡",
         "desc": "에너지 넘치고 매력적인 당신은 모두의 친구 피카츄!"
-    },
+    }
 
     "ISTJ": {
         "pokemon": "거북왕",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
         "emoji": "🛡️",
         "desc": "책임감 있고 신뢰할 수 있는 당신은 든든한 거북왕 타입입니다."
-    },
+    }
 
     "ISFJ": {
         "pokemon": "해피너스",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
         "emoji": "🤗",
         "desc": "배려심이 깊고 따뜻한 당신은 모두를 치유하는 해피너스!"
-    },
+    }
 
     "ESTJ": {
         "pokemon": "보스로라",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png",
         "emoji": "⚙️",
         "desc": "체계적이고 추진력이 강한 당신은 강철 같은 보스로라와 닮았어요."
-    },
+    }
 
     "ESFJ": {
         "pokemon": "푸크린",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
         "emoji": "🎵",
         "desc": "친절하고 사교적인 당신은 분위기 메이커 푸크린!"
-    },
+    }
 
     "ISTP": {
         "pokemon": "루카리오",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png",
         "emoji": "🥋",
         "desc": "냉철하고 실용적인 당신은 강인한 루카리오와 환상의 조합!"
-    },
+    }
 
     "ISFP": {
         "pokemon": "나인테일",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
         "emoji": "🌸",
         "desc": "감성적이고 예술적인 당신은 우아한 나인테일과 잘 어울려요."
-    },
+    }
 
     "ESTP": {
         "pokemon": "망나뇽",
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
         "emoji": "🚀",
         "desc": "모험을 사랑하는 당신은 자유로운 망나뇽 스타일!"
-    },
+    }
 
     "ESFP": {
         "pokemon": "꼬부기",
@@ -111,27 +111,27 @@ pokemon_data = {
         "desc": "밝고 즐거운 당신은 어디서나 사랑받는 꼬부기!"
     }
 {       "desc": "체계적이고 추진력이 강한 당신은 강철 같은 보스로라와 닮았어요."
-    }#
+    }
     "ESFJ": {
         "pokemon": "푸크린",
         "emoji": "🎵",
         "desc": "친절하고 사교적인 당신은 분위기 메이커 푸크린!"
-    },
+    }
     "ISTP": {
         "pokemon": "루카리오",
         "emoji": "🥋",
         "desc": "냉철하고 실용적인 당신은 강인한 루카리오와 환상의 조합!"
-    },
+    }
     "ISFP": {
         "pokemon": "나인테일",
         "emoji": "🌸",
         "desc": "감성적이고 예술적인 당신은 우아한 나인테일과 잘 어울려요."
-    },
+    }
     "ESTP": {
         "pokemon": "망나뇽",
         "emoji": "🚀",
         "desc": "모험을 사랑하는 당신은 자유로운 망나뇽 스타일!"
-    },
+    }
     "ESFP": {
         "pokemon": "꼬부기",
         "emoji": "😄",
