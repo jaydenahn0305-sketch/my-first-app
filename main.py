@@ -165,3 +165,11 @@ if st.button("🎁 포켓몬 추천받기!", use_container_width=True):
 
     else:
         st.error("⚠️ 올바른 MBTI를 입력해주세요. (예: ENFP, INTJ)")
+
+pokemon_images = {
+    "피카츄": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "뮤츠": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "이브이": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+}
+
+st.image(pokemon_images["피카츄"], width=250)
